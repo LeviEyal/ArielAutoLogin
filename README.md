@@ -1,4 +1,4 @@
-# Ariel University information systems Auto-Login Chrome Extention
+# Ariel systems Auto-Login Chrome Extention
 A simple chrome extention that provides links for fast connection to the information systems of Ariel University
 
 # The links
