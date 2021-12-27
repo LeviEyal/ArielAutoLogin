@@ -1,6 +1,6 @@
 # Ariel systems Auto-Login Chrome Extention
 A simple chrome extention that provides links for fast connection to the information systems of Ariel University
-
+https://chrome.google.com/webstore/detail/ariel-systems-auto-login/apggcjbongdcfhjjhhgaodbfoldbibnd?hl=iw
 # The links
 * Ariel Moodle
 * Personal information portal (פורטל מידע אישי)
