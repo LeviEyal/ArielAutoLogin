@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   
   meidaBTN.addEventListener('click', () => {
-      window.open('https://meyda.ariel.ac.il/SSOPT/?userType=1');
+      window.open('https://meyda.ariel.ac.il/Portals/Student/login');
   });
   
   pniotBTN.addEventListener('click', () => {
